@@ -45,4 +45,4 @@ This separation ensures:
 ---
 
 ## Author
-https://github.com/Walizada300/
+https://github.com/Walizada300
