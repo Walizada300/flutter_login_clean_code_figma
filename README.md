@@ -1,17 +1,47 @@
-# sign_in
+# Flutter Login UI - Clean Code | Component | Figma UI | GitHub Repo
 
-A new Flutter project.
+🚀 Build a beautiful Login & Registration UI in Flutter with clean code architecture, reusable components, and modern design from Figma. In this video, I’ll guide you step by step to create a professional authentication UI that is component-based, scalable, and easy to maintain.
 
-## Getting Started
+<img width="1920" height="1080" alt="Thumnails" src="https://github.com/user-attachments/assets/d6689890-ddff-4017-8dd2-56e02009b81a" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
+- Creating a Login & Register UI in Flutter
+- Writing clean & maintainable code
+- Using reusable widgets & components
+- Designing UI in Figma
+- Organizing the project structure
+- Pushing the project to GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_login_clean_code_figma
+---
+
+This separation ensures:
+- Maintainability  
+- Scalability  
+- Easy testing  
+- Reusability
+
+---
+
+## 🛠️ Tech Stack
+- **Flutter** (latest stable)  
+- **Dart**  
+- **Figma UI Reference**
+
+---
+
+## 🚀 Getting Started
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Walizada300/flutter_login_clean_code_figma.git
+   cd flutter_login_clean_code_figma
+   flutter pub get
+   flutter run
+   ```
+
+---
+
+## Author
+https://github.com/Walizada300
