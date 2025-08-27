@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:sign_in/components/button_component.dart';
 import 'package:sign_in/components/textfield_component.dart';
@@ -18,7 +17,6 @@ class _LoginScreenState extends State<LoginScreen> {
     return Scaffold(
       resizeToAvoidBottomInset: false,
       body: SafeArea(
-        // remove expaned
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 20),
           child: Column(
